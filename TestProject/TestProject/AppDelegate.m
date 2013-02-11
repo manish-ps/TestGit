@@ -23,6 +23,7 @@
     //test commit
     //user2 commit
     //commiting
+    //comment from 1 user
     return YES;
 }
 							
